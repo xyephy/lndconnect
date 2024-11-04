@@ -1,4 +1,4 @@
-# lndconnect 🌩 [![Build Status](https://travis-ci.com/LN-Zap/lndconnect.svg?branch=master)](https://travis-ci.com/LN-Zap/lndconnect)
+# lndconnect 🌩 [![Build Status](https://travis-ci.com/xyephy/lndconnect.svg?branch=master)](https://travis-ci.com/xyephy/lndconnect)
 
 Generate a QRCode or URI to connect applications to lnd instances.
 
@@ -7,8 +7,8 @@ For more information take a look at the [specification of the uri format](lnd_co
 ## Installing lndconnect
 
 ```
-go get -d github.com/LN-Zap/lndconnect
-cd $GOPATH/src/github.com/LN-Zap/lndconnect
+go get -d github.com/xyephy/lndconnect
+cd $GOPATH/src/github.com/xyephy/lndconnect
 make
 ```
 
